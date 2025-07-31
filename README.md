@@ -70,7 +70,7 @@ Perfect for applications that need granular access control, team management, and
 1. **Clone and Setup**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/aarabii/RBAC-Managment-System
    cd rbac-manager
    npm install
    ```
@@ -270,37 +270,3 @@ src/
 | `npm run start`      | 🌐 Start production server  | Running built application      |
 | `npm run lint`       | 🔍 Run ESLint checks        | Code quality assurance         |
 | `npm run type-check` | ✅ TypeScript validation    | Type safety verification       |
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help make RBAC Manager even better:
-
-1. **🍴 Fork** the repository
-2. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)
-5. **🔄 Open** a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🆘 Support & Community
-
-- **📖 Documentation**: [Visit our docs](https://your-docs-url.com)
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/your-repo/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **📧 Email**: support@rbac-manager.com
-
----
-
-<div align="center">
-  <p><strong>Built with ❤️ for secure, scalable access control</strong></p>
-  <p><em>Making permissions management simple, powerful, and human-friendly</em></p>
-</div>
